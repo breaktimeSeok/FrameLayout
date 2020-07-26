@@ -25,14 +25,14 @@
             android:layout_height="wrap_content"
             android:id="@+id/imageView"
             android:visibility="invisible"
-            app:srcCompat="@drawable/IU01" />
+            app:srcCompat="@drawable/iu01" />
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/imageView2"
             android:visibility="visible"
-            app:srcCompat="@drawable/IU02" />
+            app:srcCompat="@drawable/iu02" />
 
 
 
